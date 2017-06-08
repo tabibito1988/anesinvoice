@@ -1,0 +1,7 @@
+﻿UJP5
+https://script.google.com/macros/s/AKfycbzxAOTOsx4w___t9hISXqxMadVzJVUysaTWjcZALzhEipc2I2uC/exec?spreadsheetkey=AAA
+AAAのところはスレッドシートidに書き換えてブラウザで実行してちょ。
+
+UJP4
+https://script.google.com/macros/s/AKfycbzGtybuFtBvnZf5EMitgoNrlvgLNL4coKdKBWEtF3kp-UZnhRI/exec?spreadsheetkey=AAA
+AAAのところはスレッドシートidに書き換えてブラウザで実行してちょ。
